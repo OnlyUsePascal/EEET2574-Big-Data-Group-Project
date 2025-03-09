@@ -7,6 +7,11 @@ Team Members
 - Nhan Truong   s3929215
 - Long Nguyen   s3904632
 
+Documents
+
+- [Report](https://drive.google.com/file/d/18xOkAOjVIkfqlHZNV1XJBSmVpUfFgHe5/view?usp=sharing)
+- [Slide](https://drive.google.com/file/d/15u-5M9-b0vrD8AmcaXMUhtySXWkjuddZ/view?usp=sharing)
+
 # Project Structure
 
 ```

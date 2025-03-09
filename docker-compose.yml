@@ -1,0 +1,26 @@
+services:
+  producer-traffic:
+    container_name: producer-traffic
+    image: producer-traffic
+    build: producer-traffic
+    env_file:
+      - .env
+    # restart: always
+      
+  producer-weather:
+    container_name: producer-weather
+    image: producer-weather
+    build: producer-weather
+    env_file:
+      - .env
+    # restart: always
+
+  producer-air:
+    container_name: producer-air
+    image: producer-air
+    build: producer-air
+    env_file:
+      - .env
+    # restart: always
+
+

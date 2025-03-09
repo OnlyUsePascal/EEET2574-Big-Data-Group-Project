@@ -1,0 +1,6 @@
+pymongo
+python-dotenv
+asyncio
+requests
+boto3
+aiohttp
